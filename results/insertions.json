@@ -1,0 +1,134 @@
+{
+ "uL4": {
+  "Human": {
+   "total_mean": 162.25,
+   "total_min": 159,
+   "total_max": 167,
+   "largest_mean": 100,
+   "where": "C-term"
+  },
+  "Mouse": {
+   "total_mean": 156.25,
+   "total_min": 154,
+   "total_max": 162,
+   "largest_mean": 92,
+   "where": "C-term"
+  },
+  "Rabbit": {
+   "total_mean": 157.75,
+   "total_min": 154,
+   "total_max": 162,
+   "largest_mean": 95,
+   "where": "C-term"
+  },
+  "Rat": {
+   "total_mean": 159.25,
+   "total_min": 156,
+   "total_max": 162,
+   "largest_mean": 97,
+   "where": "C-term"
+  },
+  "Drosophila": {
+   "total_mean": 187.5,
+   "total_min": 184,
+   "total_max": 193,
+   "largest_mean": 122,
+   "where": "C-term"
+  },
+  "Yeast": {
+   "total_mean": 158,
+   "total_min": 155,
+   "total_max": 163,
+   "largest_mean": 97.5,
+   "where": "C-term"
+  }
+ },
+ "uS3": {
+  "Human": {
+   "total_mean": 40.5,
+   "total_min": 40,
+   "total_max": 41,
+   "largest_mean": 24,
+   "where": "C-term"
+  },
+  "Mouse": {
+   "total_mean": 40.75,
+   "total_min": 40,
+   "total_max": 41,
+   "largest_mean": 25.25,
+   "where": "C-term"
+  },
+  "Rabbit": {
+   "total_mean": 39,
+   "total_min": 37,
+   "total_max": 40,
+   "largest_mean": 25.25,
+   "where": "C-term"
+  },
+  "Rat": {
+   "total_mean": 41,
+   "total_min": 40,
+   "total_max": 42,
+   "largest_mean": 25.25,
+   "where": "C-term"
+  },
+  "Drosophila": {
+   "total_mean": 40.5,
+   "total_min": 39,
+   "total_max": 41,
+   "largest_mean": 26.5,
+   "where": "C-term"
+  },
+  "Yeast": {
+   "total_mean": 36,
+   "total_min": 35,
+   "total_max": 38,
+   "largest_mean": 26.75,
+   "where": "C-term"
+  }
+ },
+ "uL2": {
+  "Human": {
+   "total_mean": 27.75,
+   "total_min": 24,
+   "total_max": 29,
+   "largest_mean": 8.25,
+   "where": "C-term"
+  },
+  "Mouse": {
+   "total_mean": 27.75,
+   "total_min": 23,
+   "total_max": 30,
+   "largest_mean": 8.25,
+   "where": "C-term"
+  },
+  "Rabbit": {
+   "total_mean": 29.5,
+   "total_min": 25,
+   "total_max": 31,
+   "largest_mean": 10,
+   "where": "C-term"
+  },
+  "Rat": {
+   "total_mean": 26.25,
+   "total_min": 24,
+   "total_max": 28,
+   "largest_mean": 8.25,
+   "where": "C-term"
+  },
+  "Drosophila": {
+   "total_mean": 29.25,
+   "total_min": 25,
+   "total_max": 31,
+   "largest_mean": 8.75,
+   "where": "C-term"
+  },
+  "Yeast": {
+   "total_mean": 29,
+   "total_min": 25,
+   "total_max": 31,
+   "largest_mean": 9.25,
+   "where": "C-term"
+  }
+ }
+}
